@@ -1,6 +1,8 @@
 ---
-title: "Reproducible Research Project 1"
-output: html_document
+title: "Reproducible Research Assignment 1"
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r echo = FALSE}
